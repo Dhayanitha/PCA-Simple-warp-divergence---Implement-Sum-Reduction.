@@ -23,8 +23,8 @@ In the Main method , set up the device and initialise the size and block size. A
 ### Step 8 :
 Atlast , free the host and device memory then reset the device and check for results.
 ## PROGRAM:
-### Developed By :  
-### Reg No :   
+### Developed By : H.Dhayanitha
+### Reg No : 212220230010
 
 ### U8.cu
 ```
