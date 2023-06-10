@@ -166,8 +166,8 @@ int main()
 ```
 
 ## PROGRAM:
-### Developed By :  
-### Reg No :  
+### Developed By : H.Dhayanitha
+### Reg No : 212220230010
 
 ### U16.cu
 ```
